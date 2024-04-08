@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295568200672",
+    "project_id": "contact-book-ee6dc",
+    "storage_bucket": "contact-book-ee6dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295568200672:android:fe2418b5ef6f9824c4d185",
+        "android_client_info": {
+          "package_name": "com.example.contact_book_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYog8-6wleuBn9PAkg9jk-sYHsFXrjlf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
